@@ -1,0 +1,20 @@
+/* CSS untuk mengatur tampilan tabel */
+.gold-table {
+    border-collapse: collapse;
+    width: 100%;
+    background-color: gold;
+    border: 1px solid black;
+}
+
+.gold-table th, .gold-table td {
+    border: 1px solid black;
+    padding: 5px;
+    text-align: center;
+    color: black;
+}
+
+/* Mengatur warna teks dan padding untuk th */
+.gold-table th {
+    background-color: gold;
+    color: black;
+}
